@@ -3,7 +3,7 @@ def display_rainbow(colors)
   colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 red = R
 orange = O
-yellow = Y 
+yellow = Y
 green = G
 blue = B
 Indigo = I
